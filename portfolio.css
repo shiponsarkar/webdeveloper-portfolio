@@ -146,6 +146,34 @@ main {
     font-weight: 700;
    
 }
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-tital{
+    color: var #474747;
+    font-size: 25px
+    font-weight: 700;
+    margin-bottom: 10p;
+}
+
+.resume-tital-institute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.resume-item-institute,.resume-item-descrption{
+    color:#757575;
+
+}
+.resume-container hr{
+    margin:30px
+}
+.Dpwnload-cv{
+    text=align:center
+    margin-top: 50px;
+}
+
 
 
 
